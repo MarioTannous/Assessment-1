@@ -1,5 +1,6 @@
 Academy Assessment 1 – JavaScript/Typescript Challenges
-This repository contains answers to a series of JavaScript/TypeScript challenges designed to test various other aspects of programming, algorithm development, and data structures. Each challenge centers implementing a function or class to solve specific problems, thereby helping you practice core programming concepts.
+This repository contains answers to a series of JavaScript/TypeScript challenges designed to test various other aspects of programming, algorithm development, and data structures. 
+Each challenge centers implementing a function or class to solve specific problems, thereby helping you practice core programming concepts.
 Table of Contents
 •	Introduction
 •	Challenges
@@ -9,7 +10,9 @@ Table of Contents
 •	Contributing
 •	License
 Introduction
-This repository is aimed at providing a solution set for some JavaScript/TypeScript challenges directed at testing and enhancing one's coding skills. The challenges test candidates on basic and advanced topics like string manipulation, object comparisons, and caching implementation. By overcoming these challenges, you will embrace JavaScript/TypeScript with a greater depth of understanding in relation to standard algorithmic patterns.
+This repository is aimed at providing a solution set for some JavaScript/TypeScript challenges directed at testing and enhancing one's coding skills. 
+The challenges test candidates on basic and advanced topics like string manipulation, object comparisons, and caching implementation. 
+By overcoming these challenges, you will embrace JavaScript/TypeScript with a greater depth of understanding in relation to standard algorithmic patterns.
 Challenges
 1. Reverse a String
 •	Function: reverseString(str: string): string
@@ -57,24 +60,6 @@ deepEqual({ a: 1, b: { c: 2 } }, { a: 1, b: { c: 2 } }); // true
 Technologies Used
 •	JavaScript
 •	TypeScript
-Installation
-To get started, clone this repository to your local machine:
-git clone https://github.com/yourusername/academy-assignment.git
-cd academy-assignment
-Usage
-Once the repository is cloned, you can test each challenge by running the corresponding file in your local environment. For TypeScript files, make sure to install TypeScript and run the code using ts-node.
-1.	Install dependencies (if applicable):
-2.	npm install
-3.	Run a challenge: For example, to run the reverse string challenge:
-4.	node reverseString.js
-
-Contributing
-Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your improvements or bug fixes.
-1.	Fork the repository.
-2.	Create a new branch (git checkout -b feature-branch).
-3.	Commit your changes (git commit -am 'Add new feature').
-4.	Push the branch (git push origin feature-branch).
-5.	Create a new pull request.
 License
 This project is open-source and available under the MIT License.
 
